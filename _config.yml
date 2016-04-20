@@ -1,0 +1,28 @@
+name: loren
+favicon: null
+layout_spectrum: 0.32270401739515364
+typography_spectrum: 0.20432303263805807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8915763488039374
+  lightness: 0.08214626461267471
+  saturation: 0.19454412581399083
+  rhythmicContrast: 0.4760594228282571
+purpose: []
