@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "surf's up-it's time to get o"
-datePublished: '2016-04-24T15:26:13.522Z'
-dateModified: '2016-04-24T15:25:39.894Z'
+datePublished: '2016-04-24T15:35:16.033Z'
+dateModified: '2016-04-24T15:26:22.850Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-surfs-up-its-time-to-get-o.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-surfs-up-its-time-to-get-o.md
-published: true
 url: surfs-up-its-time-to-get-o/index.html
 _type: Article
 
